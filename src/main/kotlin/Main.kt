@@ -22,8 +22,7 @@ fun main(args: Array<String>) {
         println(text)
     }
     //Anonymous Functions and Lambda Expressions
-    removingSpacesFromAString("Kotlin is awesome")
-
+    println(removingSpacesFromAString("Kotlin is awesome"))
 
 }
 
